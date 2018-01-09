@@ -1,8 +1,8 @@
-package com.dineshonjava.service;
+package com.sgs.service;
 
 import java.util.List;
 
-import com.dineshonjava.model.Employee;
+import com.sgs.model.Employee;
 
 /**
  * @author Dinesh Rajput

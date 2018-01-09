@@ -1,4 +1,4 @@
-package com.dineshonjava.dao;
+package com.sgs.dao;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.dineshonjava.model.Employee;
+import com.sgs.model.Employee;
 
 /**
  * @author Dinesh Rajput

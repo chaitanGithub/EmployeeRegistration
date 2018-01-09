@@ -1,4 +1,4 @@
-package com.dineshonjava.bean;
+package com.sgs.bean;
 
 /**
  * @author Dinesh Rajput

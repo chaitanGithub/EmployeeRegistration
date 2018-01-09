@@ -1,4 +1,4 @@
-package com.dineshonjava.controller;
+package com.sgs.controller;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.dineshonjava.bean.EmployeeBean;
-import com.dineshonjava.model.Employee;
-import com.dineshonjava.service.EmployeeService;
+import com.sgs.bean.EmployeeBean;
+import com.sgs.model.Employee;
+import com.sgs.service.EmployeeService;
 
 /**
  * @author Dinesh Rajput

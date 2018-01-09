@@ -1,4 +1,4 @@
-package com.dineshonjava.model;
+package com.sgs.model;
 
 import java.io.Serializable;
 
